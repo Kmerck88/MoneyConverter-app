@@ -1,4 +1,6 @@
 # MoneyConverter-app
+In this application I was able to get comforable with using division (/), rounding down (Math.Floor()), and modulo (%) and also using the offical Microsoft documentation 
+
 
 You have three types of coins:
 
